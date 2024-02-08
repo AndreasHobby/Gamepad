@@ -5,6 +5,8 @@
 // ** header incldes and installation hints **
 //install ESP32 via Boardverwalter           url=https://dl.espressif.com/dl/package_esp32_index.json
 #include "declarations.h"                    //extern declarations
+// Board: ESP32 Dev Module
+// Partition Scheme: Minimal SPIFFS
 //*****************************************************************************************************************
 //*****************************************************************************************************************
 // 
